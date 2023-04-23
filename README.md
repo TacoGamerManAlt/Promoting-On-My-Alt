@@ -8,4 +8,11 @@ I made this repo to hopefully modernize Greatsword, and keep its feel.
 
 https://f3botd-8080.csb.app/
 
+https://0tcnpq-8080.csb.app/
+
+https://02ssef-8080.csb.app/
+
+https://8vr8zc-8080.csb.app/
+
+
 
