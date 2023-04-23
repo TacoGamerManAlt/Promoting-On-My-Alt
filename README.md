@@ -6,6 +6,6 @@ I made this repo to hopefully modernize Greatsword, and keep its feel.
 
 # Links:
 
-https://mep8w0-8080.csb.app/
+https://f3botd-8080.csb.app/
 
 
